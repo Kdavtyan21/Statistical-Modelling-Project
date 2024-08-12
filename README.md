@@ -15,4 +15,4 @@ After making a regression model to see if there is a correlation between an avai
 Biggest challange that I've faced was incomplete data from foursquare API which had me creating more variables and columns to compensate for the lack of data.
 
 ## Future Goals
-(what would you do if you had more time?)
+In the future I would like to only use Yelp API rather than 2 APIs to prevent a lot of incomplete data for better results. Another goal wold be making a visual representation of my findings and using Tableau as a software for it.
