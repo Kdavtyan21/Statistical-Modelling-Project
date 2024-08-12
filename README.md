@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to determine how many bike stations or available bikes are near different point of interests in a chosen city (In this case I've chosen Assemini in Italy as my city of choice).
 
 ## Process
 ### (your step 1)
